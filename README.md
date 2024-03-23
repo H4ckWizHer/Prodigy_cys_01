@@ -16,7 +16,7 @@ Before running this project, you need to have Python installed on your computer.
 To get the project running, follow these steps:
 
 1. Clone the repository to your local machine:
-   git clone https://yourrepositorylink.git
+   git clone https:(https://github.com/H4ckWizHer/Prodigy_cys_01/tree/main?tab=readme-ov-file)
 2. Navigate to the project directory:
    cd caesar-cipher
 3. Run the program.
